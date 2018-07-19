@@ -147,6 +147,7 @@
 "Cannot create writeable directory '%s'.","Невозможно создать папку с правами на запись '%s'."
 "Cart Item Attribute","Атрибут единицы корзины"
 "Catalog","Каталог"
+"Catalognav","Продукция"
 "Catalog Category (Anchor)","Категория каталога (зафиксирована)"
 "Catalog Category (Non-Anchor)","Категория каталога (не зафиксирована)"
 "Catalog Category (Without Subcategories)","Категория каталога (без подкатегорий)"
