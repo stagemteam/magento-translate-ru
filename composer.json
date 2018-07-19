@@ -1,0 +1,23 @@
+{
+  "name": "stagem/magento-translate-ru",
+  "type": "magento-module",
+  "license": "MIT Licence",
+  "description": "Russification Magento 1 Module",
+  "authors": [
+    {
+      "name": "Vlad Kozak",
+      "email": "vk@stagem.com.ua"
+    }
+  ],
+  "extra": {
+    "map": [
+      ["app/code/community/ET/RussianLanguagePack", "app/code/community/ET/RussianLanguagePack"],
+      ["app/etc/modules/ET_RussianLanguagePack.xml", "app/etc/modules/ET_RussianLanguagePack.xml"],
+      ["app/locale/ru_RU", "app/locale/ru_RU"],
+      ["js/tiny_mce/langs/ru.js", "js/tiny_mce/langs/ru.js"],
+      ["js/tiny_mce/plugins", "js/tiny_mce/plugins"],
+      ["js/tiny_mce/themes", "js/tiny_mce/themes"],
+      ["js/ru.tiny_mce.settings.js", "js/ru.tiny_mce.settings.js"]
+    ]
+  }
+}
