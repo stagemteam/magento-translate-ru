@@ -30,8 +30,9 @@
       ["js/tiny_mce/plugins/table/langs/ru_dlg.js", "js/tiny_mce/plugins/table/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/template/langs/ru_dlg.js", "js/tiny_mce/plugins/template/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js", "js/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js"],
-      ["js/tiny_mce/themes/ru.js", "js/tiny_mce/themes/ru.js"],
-      ["js/tiny_mce/themes/ru_dlg.js", "js/tiny_mce/themes/ru_dlg.js"],
+      ["js/tiny_mce/themes/advanced/langs/ru.js", "js/tiny_mce/themes/advanced/langs/ru.js"],
+      ["js/tiny_mce/themes/advanced/langs/ru_dlg.js", "js/tiny_mce/themes/advanced/langs/ru_dlg.js"],
+      ["js/tiny_mce/themes/simple/langs/ru.js", "js/tiny_mce/themes/simple/langs/ru.js"],
       ["js/ru.tiny_mce.settings.js", "js/ru.tiny_mce.settings.js"]
     ]
   }
