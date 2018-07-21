@@ -11,9 +11,9 @@
   ],
   "extra": {
     "map": [
-      ["app/code/community/ET/RussianLanguagePack", "app/code/community/ET/RussianLanguagePack"],
+      ["app/code/community/ET/RussianLanguagePack/", "app/code/community/ET/RussianLanguagePack/"],
       ["app/etc/modules/ET_RussianLanguagePack.xml", "app/etc/modules/ET_RussianLanguagePack.xml"],
-      ["app/locale/ru_RU", "app/locale/ru_RU"],
+      ["app/locale/ru_RU/", "app/locale/ru_RU/"],
       ["js/tiny_mce/langs/ru.js", "js/tiny_mce/langs/ru.js"],
       ["js/tiny_mce/plugins/advhr/langs/ru_dlg.js", "js/tiny_mce/plugins/advhr/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/advimage/langs/ru_dlg.js", "js/tiny_mce/plugins/advimage/langs/ru_dlg.js"],
