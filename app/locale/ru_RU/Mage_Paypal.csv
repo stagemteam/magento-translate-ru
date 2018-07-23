@@ -346,7 +346,7 @@
 "Subscriber name is too long.","Имя подписчика слишком длинное."
 "Subscription ID","Subscription ID"
 "Subscription Payment, either payment sent or payment received","Subscription Payment, either payment sent or payment received"
-"Subtotal","стоимость товаров"
+"Subtotal","предварительный итог"
 "Summary Text for Aggregated Cart","Заголовок счёта в PayPal"
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
 "Switch/Maestro","Switch/Maestro"
