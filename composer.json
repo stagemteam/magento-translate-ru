@@ -136,7 +136,7 @@
       ["js/tiny_mce/plugins/searchreplace/langs/ru_dlg.js", "js/tiny_mce/plugins/searchreplace/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/style/langs/ru_dlg.js", "js/tiny_mce/plugins/style/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/table/langs/ru_dlg.js", "js/tiny_mce/plugins/table/langs/ru_dlg.js"],
-      ["js/tiny_mce/plugins/template/email/langs/ru_dlg.js", "js/tiny_mce/plugins/template/email/langs/ru_dlg.js"],
+      ["js/tiny_mce/plugins/template/langs/ru_dlg.js", "js/tiny_mce/plugins/template/langs/ru_dlg.js"],
       ["js/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js", "js/tiny_mce/plugins/xhtmlxtras/langs/ru_dlg.js"],
       ["js/tiny_mce/themes/advanced/langs/ru.js", "js/tiny_mce/themes/advanced/langs/ru.js"],
       ["js/tiny_mce/themes/advanced/langs/ru_dlg.js", "js/tiny_mce/themes/advanced/langs/ru_dlg.js"],
