@@ -405,3 +405,4 @@
 "Your session has been expired, you will be relogged in now.","Срок Вашего сеанса истёк. Вы будете перенаправлены на форму авторизации."
 "database ""%s""","база данных «%s»"
 "'%value%' does not appear to be a postal code","«%value%» не является почтовым индексом."
+"To catalog >>>", "В каталог >>>"
